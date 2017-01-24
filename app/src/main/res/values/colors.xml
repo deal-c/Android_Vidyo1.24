@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_tab_bg_c">#ffe5e5e5</color>
+    <color name="main_tab_bg">#ffcccccc</color>
+    <color name="SearchingColor">#a0000000</color>
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="dark_gray">#ff444444</color>
+    <color name="gray">#ff666666</color>
+    <color name="light_yellow">#ffffff00</color>
+    <color name="yellow">#ffffcc00</color>
+    <color name="dark_yellow">#ffff9900</color>
+    <color name="light_green">#ffbbffbb</color>
+    <color name="dark_green">#ff4a7210</color>
+    <color name="green">#ff669b15</color>
+    <color name="light_blue">#ffbbbbff</color>
+    <color name="dark_blue">#ff101d6c</color>
+    <color name="blue">#ff358fb2</color>
+    <color name="red">#ffcc0001</color>
+    <color name="gray_ccc">#ffcccccc</color>
+    <color name="video_back">#ffffffff</color>
+</resources>
